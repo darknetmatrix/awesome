@@ -540,3 +540,8 @@ beautiful.useless_gap = 5
 awful.spawn.with_shell("picom --experimental-backends")
 awful.spawn.with_shell("dropbox")
 awful.spawn.with_shell("feh --bg-fill --randomize ~/Media/wallpapers-ii/wallpapers")
+
+#[][]     ||\\ //||
+#[] \\    || \// || DarknetMatrix
+#[]  \\   ||     || https://darknetmatrix.blogspot.com/
+#[][][][] ||     || https://github.com/darknetmatrix
